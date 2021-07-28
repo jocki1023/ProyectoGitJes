@@ -3,5 +3,22 @@ body
     color: olive;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
 
+#primer
+{
+   width: 70%;
+   padding: 1em;
+   text-align: center;
+   border: 1px solid #053;
+   margin: 0 auto;
+}
+
+#Segundo
+{
+    text-align: center;
+    margin: auto;
+    border: 1px solid #053;
 }
