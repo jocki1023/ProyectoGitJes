@@ -13,12 +13,27 @@ body
    padding: 1em;
    text-align: center;
    border: 1px solid #053;
-   margin: 0 auto;
+   margin: 0;
 }
 
 #Segundo
 {
     text-align: center;
-    margin: auto;
+    margin-top: 20px;
     border: 1px solid #053;
+}
+
+#cabecera
+{
+    margin: 0;
+    padding: 20px;
+    border-top-left-radius: 0.5cm;
+    border-bottom-left-radius: 0.5cm;
+    border-top-right-radius: 0.5cm;
+    border-bottom-right-radius: 0.5cm;
+    background-color: rgb(19, 19, 226);
+    text-align: left;
+    color:whitesmoke;
+    box-shadow: 10px 10px 15px -4px rgba(0,0,0,0.75);
+
 }
